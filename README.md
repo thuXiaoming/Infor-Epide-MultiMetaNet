@@ -1,4 +1,3 @@
-Our code is placed in the branch master, please click on the upper left to switch the branch mai to master.
 Our simulation code is based on the matlab environment.
 multiplex_meta_mc.m gives the source code of Monta carlo simulation of propagation process.
 multiplex_meta_ode.m gives the source code of numerical calculation of propagation process according to Eqs. 2-8.
